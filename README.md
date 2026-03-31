@@ -27,5 +27,5 @@
 * 🎨 **Imagine-colors** — имиджевый проект с отличным визуалом. <br> [Смотреть вживую](https://imagine-colors.ru/)
 
 ### 📫 Как со мной связаться:
-- **Telegram:** [@твой_ник_в_тг](https://t.me/romanzhan1994)
-- **FL.ru:** [Мой профиль](https://www.fl.ru/users/romanzhan1994/portfolio/)
+- **Telegram:** [@romanzhan1994](https://t.me/romanzhan1994)
+- **FL.ru:** [Мой профиль на Fl.ru](https://www.fl.ru/users/romanzhan1994/portfolio/)
